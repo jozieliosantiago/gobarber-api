@@ -1,6 +1,7 @@
 import Sequelize from 'sequelize';
 import mongoose from 'mongoose';
-import { postgresConfig, mongoConfig } from '../config/database';
+import postgresConfig from '../config/database';
+import mongoConfig from '../config/mongodb';
 
 import User from '../app/models/User';
 import File from '../app/models/File';
