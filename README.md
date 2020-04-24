@@ -93,7 +93,6 @@ Content-Type	application/json
 	"password": "123456",
 	"provider": true
 }
-
 ```
 
 ### Example Request
