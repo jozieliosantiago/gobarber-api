@@ -18,7 +18,7 @@ class AppointmentController {
       order: ['date'],
       attributes: ['id', 'date', 'past', 'cancelable'],
       limit: 20,
-      offset: (page - 1) * 20,
+      offset: ((page || 1) - 1) * 20,
       include: [
         {
           model: User,
