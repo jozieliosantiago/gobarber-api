@@ -2,6 +2,8 @@
 
 Essa aplicação trata-se de uma pequena API para o gerenciamento de agendamentos de uma barbearia fictícia chamada GoBarber. Essa aplicação faz parte do curso GoStack - Bootcamp da [Rocketseat](https://rocketseat.com.br/).
 
+***O front-end web da aplicação pode ser encontrado nesse [link](https://github.com/jozieliosantiago/gobarber-web)***.
+
 # Instalação
 
 Indica-se o uso de containers para o gerenciamento dos bancos de dados utilizados pela API. Para a execução dos próximos comandos é necessário que o docker tenha sido instalado previamente.
